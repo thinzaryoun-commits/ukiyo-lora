@@ -1,8 +1,5 @@
 # SD 1.5 LoRA Fine-tuning — Ukiyo-e Art Style
 
-**Course:** CPE494/663 Generative AI | KMUTT  
-**Team:** Youn Thinzar (Implementation) · Kyawhtin Khaung Soe (Theory & Data QA)  
-
 ---
 
 ## Description
